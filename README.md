@@ -14,7 +14,7 @@
 2、一句话说明项目优势和不足
 3、一句话说明项目部署和试用
 
-| 项目名称 | GitHub 地址 | 简介 | 试用和部署 |
-|---------|------------|------|----------|
-| MinIO | [minio/minio](https://github.com/minio/minio) | 高性能的对象存储服务器，兼容 Amazon S3 API | [试用和部署](projects/minio/README.md) |
-|     1   |       3     |    2  | [试用和部署](projects/demo1/README.md) |
+| 项目名称 | GitHub 地址 | 简介 | 优势和不足 | 试用和部署 |
+|---------|------------|------|------------|----------|
+| MinIO | [minio/minio](https://github.com/minio/minio) | 高性能的对象存储服务器，兼容 Amazon S3 API | ✅ 完全兼容S3 API<br>✅ 部署简单<br>❌ 企业版功能收费 | [试用和部署](projects/minio/README.md) |
+| anything-llm | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 本地、远程托管，并能够与您提供的任何文档智能聊天 | ✅ 支持本地部署<br>✅ RAG应用 支持ollama ❌RAG效果未比较同类的   | [试用和部署](projects/anything-llm/README.md) |
